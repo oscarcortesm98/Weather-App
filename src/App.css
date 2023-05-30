@@ -1,0 +1,42 @@
+.app {
+  background-position: center;
+  background-size: cover;
+  justify-items: center;    
+  min-height : 100vh;
+}
+
+.app.bg01 {
+  background-image: url(/images/bg-weather/clear-sky.jpg);
+}
+
+.app.bg02 {
+  background-image: url(/images/bg-weather/few-clouds.jpg);
+}
+
+.app.bg03 {
+  background-image: url(/images/bg-weather/scattered-clouds.jpg);
+}
+
+.app.bg04 {
+  background-image: url(images/bg-weather/broken-clouds.jpg);
+}
+
+.app.bg09 {
+  background-image: url(images/bg-weather/shower-rain.jpg);
+}
+
+.app.bg10 {
+  background-image: url(images/bg-weather/rain.jpg);
+}
+
+.app.bg11 {
+  background-image: url(images/bg-weather/thunderstorm.jpg);
+}
+
+.app.bg12 {
+  background-image: url(images/bg-weather/snow.jpg);
+}
+
+.app.bg50 {
+  background-image: url(/images/bg-weather/mist.jpg);
+}
